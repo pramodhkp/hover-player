@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Time Player</string>
+    <string name="exit_button">Exit</string>
+    <string name="dummy_content">
+        <p>Instructions:\n</p>
+        <p>
+            <ul>
+                <li>Time Wave uses proximity sensor to detect activity around the phone.\n</li>
+				<li>There are four operations that you can perform. To perform an operation, hover on the proximity sensor (Cover your phone with your hand).\n\n</li>
+				
+				<li>Toggle Play/Pause - Cover phone for less than 1 sec.\n</li>
+				<li>Next - Cover phone for 1 seconds\n</li>
+				<li>Previous - Cover phone for two seconds\n</li>
+				<li>Stop - Cover phone for three seconds\n</li>
+			    
+            </ul>
+                
+        </p>
+    </string>
+    <string name="imagedesc">Captured Image</string>
+    <string name="button_switch">Switch View</string>
+    <string name="title_activity_sensor">Time player</string>
+    <string name="local_service_started">SensorActivity Started</string>
+    <string name="local_service_stopped">SensorActivity Stopped</string>
+    <string name="local_service_label">Local Service label</string>
+
+</resources>
